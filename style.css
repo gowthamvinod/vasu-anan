@@ -23,3 +23,14 @@ body {
 .box:hover {
   box-shadow: 0 0 40px rgba(255, 255, 255, 0.7);
 }
+
+.title{
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 2.5rem;
+  font-family: 'Poppins', sans-serif;
+
+}
